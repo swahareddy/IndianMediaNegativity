@@ -1,4 +1,4 @@
-I enthusiastically started with GCP since I am comfortable with connecting to it due to my project at work. And also, I am no ML, NLP expert and Google's APIs let any chomu do cool NLP stuff.
+I enthusiastically started with GCP since I am comfortable with connecting to it due to my project at work. And also, I am no ML, NLP expert and Google's APIs let anyone do cool NLP stuff.
  
 How are we getting all this? Google cloud gives developers 300$ of credits for one year. I have set this up using that trial. Mine will not get over, but if it does, we can use someone else's account. I don't think that given our small use case, it will even cost anything significant.
  
@@ -17,6 +17,6 @@ Content categorisation
 Entity extraction
 Entity sentiment analysis
 Instead of me explaining these, just try the interactive demo.
-DataStudio
 
-It's just a visualisation software for a given database. Not started using this really. Will update further if we integrate with our solution. 
+## DataStudio
+A visualisation tool. Can make intuitive graphs, tables, treemaps, pie charts based on multiple data studios like offline CSVs, google sheets, Big Query tables etc. Offers filters on the data source as well as filters for the user to set when using the UI. However does not offer anything beyond good visualisation.
