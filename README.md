@@ -1,9 +1,9 @@
 # IndianMediaNegativity
 A project to assist readers with choosing their online media house of choice and performing further analysis.
 
-The reason why I did this project is [here](https://medium.com/@swahareddy/if-it-bleeds-it-leads-a4739cee9284?sk=1bd0b0fcfc6cdca266aca86467bbf590)
+### The reason why I did this project is [here](https://medium.com/@swahareddy/if-it-bleeds-it-leads-a4739cee9284?sk=1bd0b0fcfc6cdca266aca86467bbf590)
 
-Check out the end product [here](https://datastudio.google.com/reporting/319d07ad-3499-46ab-b140-4cdfd7df55b4)
+### Check out the end product [here](https://datastudio.google.com/reporting/319d07ad-3499-46ab-b140-4cdfd7df55b4)
 
 <img src="https://github.com/swahareddy/IndianMediaNegativity/blob/master/Readme%20images/firsttable.png" >
 
