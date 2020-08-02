@@ -1,0 +1,17 @@
+id	INTEGER	REQUIRED	
+Source	STRING	NULLABLE	
+Author	STRING	NULLABLE	
+Title	STRING	NULLABLE	
+Description	STRING	NULLABLE	
+Content	STRING	NULLABLE	
+Publish_time	DATETIME	NULLABLE	
+Sentiment_score	NUMERIC	NULLABLE	
+Sentiment_magnitude	FLOAT	NULLABLE	
+Identified_category_1_name	STRING	NULLABLE	
+Identified_category_1_probability	NUMERIC	NULLABLE	
+Identified_category_2_name	STRING	NULLABLE	
+Identified_category_2_probability	NUMERIC	NULLABLE	
+Original_write_time	DATETIME	REQUIRED	
+Update_time	DATETIME	REQUIRED	
+pkey	STRING	NULLABLE	
+URL	STRING	NULLABLE	
