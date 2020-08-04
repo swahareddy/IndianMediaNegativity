@@ -13,12 +13,6 @@ A project to assist readers with choosing their online media house of choice and
 3. Add/remove source websites from the notebook
 4. Run the jupyter notebook
 
-
-- [ ] Create 2 BigQuery tables with schema from [`master_table.schema`](https://github.com/swahareddy/IndianMediaNegativity/blob/master/master_table.schema)
-- [ ] Install python dependancies in [`requirements.txt`](https://github.com/swahareddy/IndianMediaNegativity/blob/master/requirements.txt)
-- [ ] Add/remove source websites from the notebook
-- [ ] Run the jupyter notebook
-
 ## Pipeline logic for this project
 1. Get news article info from [newsapi.org](https://)
 <img src="https://github.com/swahareddy/IndianMediaNegativity/blob/master/Readme%20images/organisations.png">
